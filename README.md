@@ -1,6 +1,8 @@
 ### Cześć, nazywam się Zbigniew Szczech 👋
 ## O mnie
 Jestem pasjonatem programowania, zafascynowanym kodowaniem frontendów. 
+🚀 Aktualnie pracuję nad rozwijaniem moich umiejętności.
+🌱 Chcę się rozwijać w świecie IT!
 
 ## Umiejętności
 - **Języki Programowania:** C#, JavaScript
