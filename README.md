@@ -1,7 +1,7 @@
 ### Cześć, nazywam się Zbigniew Szczech 👋
 ## O mnie
-Jestem pasjonatem programowania, zafascynowanym kodowaniem frontendów. 
-🚀 Aktualnie pracuję nad rozwijaniem moich umiejętności.
+Jestem pasjonatem programowania, zafascynowanym kodowaniem frontendów. <br>
+🚀 Aktualnie pracuję nad rozwijaniem moich umiejętności.<br>
 🌱 Chcę się rozwijać w świecie IT!
 
 ## Umiejętności
